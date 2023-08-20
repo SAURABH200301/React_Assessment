@@ -1,0 +1,14 @@
+.main{
+    padding-top: 10px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.accSum{
+    margin: 10px;
+    box-shadow: 1px 1px 4px black;
+}
